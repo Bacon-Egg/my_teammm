@@ -1,6 +1,6 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
-    m_FilePath: C:/Users/ABC/wkspaces/HelloWarudo/Packages/manifest.json
+    m_FilePath: C:/Users/ABC/Desktop/GitUnity/a/my_teammm/Packages/manifest.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
@@ -8,7 +8,7 @@ m_ProjectFiles:
       ticks: 639057646624988139
     m_Hash: 205969706
   m_LockFileStatus:
-    m_FilePath: C:/Users/ABC/wkspaces/HelloWarudo/Packages/packages-lock.json
+    m_FilePath: C:/Users/ABC/Desktop/GitUnity/a/my_teammm/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
@@ -19,7 +19,7 @@ m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
   m_LocalFileStatus: []
-m_ProjectPath: C:/Users/ABC/wkspaces/HelloWarudo/Packages
+m_ProjectPath: C:/Users/ABC/Desktop/GitUnity/a/my_teammm/Packages
 m_EditorVersion: 6000.0.60f1 (61dfb374e36f)
 m_ResolvedPackages:
 - packageId: com.unity.multiplayer.center@1.0.0
@@ -27,7 +27,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\ABC\wkspaces\HelloWarudo\Library\PackageCache\com.unity.multiplayer.center@f3fb577b3546
+  resolvedPath: C:\Users\ABC\Desktop\GitUnity\a\my_teammm\Library\PackageCache\com.unity.multiplayer.center@f3fb577b3546
   assetPath: Packages/com.unity.multiplayer.center
   name: com.unity.multiplayer.center
   displayName: Multiplayer Center
